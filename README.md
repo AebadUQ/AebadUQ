@@ -35,8 +35,8 @@
    <li>FullStack Engineer @<a href="https://codevative.com/" rel="nofollow">Codevative</a></li>
       <li>
         Masters of Science in Computer Science @<a href="http://khi.nu.edu.pk/" rel="nofollow">FAST-NUCES, Karachi</a>, Class of 2024</li>
-
-    <li>Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" rel="nofollow">FAST-NUCES, Karachi</a>, Class of 2022</li>
+<li>
+        Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" rel="nofollow">FAST-NUCES, Karachi</a>, Class of 2022</li>
 </ul>
     
 

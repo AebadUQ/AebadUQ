@@ -37,6 +37,10 @@
         Masters of Science in Computer Science @<a href="http://khi.nu.edu.pk/" rel="nofollow">FAST-NUCES, Karachi</a>, Class of 2024</li>
 <li>
         Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" rel="nofollow">FAST-NUCES, Karachi</a>, Class of 2022</li>
+
+
+  <li>
+        Software Tester @<a href="https://www.afiniti.com/" rel="nofollow"></li>
 </ul>
     
 

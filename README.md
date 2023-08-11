@@ -40,7 +40,7 @@
 
 
   <li>
-        Software Tester @<a href="https://www.afiniti.com/" rel="nofollow">Afinit</li>
+        Software Tester @<a href="https://www.afiniti.com/" rel="nofollow">Afinit</a></li>
 </ul>
     
 

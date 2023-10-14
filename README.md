@@ -43,9 +43,7 @@ I am Aebad ul quadir, a FullStack Engineer based in Karachi, Pakistan working at
         Masters of Science in Computer Science @<a href="http://khi.nu.edu.pk/" rel="nofollow">FAST-NUCES, Karachi</a>, Class of 2024</li>
 <li>
         Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" rel="nofollow">FAST-NUCES, Karachi</a>, Class of 2022</li>
-  <li>
-        Mern Stack Developer @<a href="https://www.macworldtechnology.com/" rel="nofollow">Mac World Technology</a></li>
-<li>
+
         Frontend Engineer @<a href="https://www.cdl1000.com/" rel="nofollow">CDL1000</a></li>
 <li>
         Software Engineer-Mern Stack @<a href="https://www.zueusa.com/" rel="nofollow">Zue Pvt Limited</a></li>
